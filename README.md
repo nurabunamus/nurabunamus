@@ -11,7 +11,7 @@
 
 **About Me:**
 
-- 🔭 I’m currently working on HomeTaste Project
+- 🔭 I’m currently working on Artistoria Project
 - 🌱 I’m currently learning Nestjs
 - 👯 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [Nur Abunamus](https://www.linkedin.com/in/noor-abunamus/)
